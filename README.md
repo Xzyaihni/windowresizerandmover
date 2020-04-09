@@ -1,0 +1,1 @@
+resizes and/or moves any window thats it
